@@ -10,6 +10,7 @@
     var t1 = [];
     var res;
 
+//fonction de Cryptage
 function cryptage(){
     n = parseInt(document.getElementById("n").value);
     test = document.getElementById("entree").value;
